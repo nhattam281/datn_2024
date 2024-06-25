@@ -1,0 +1,16 @@
+export const path = {
+    HOME: '/',
+    LOGIN: 'dang-nhap',
+    SIGNUP: 'dang-ky',
+    CATEGORY: 'quan-ly-danh-muc',
+    USERS: 'quan-ly-nguoi-dung',
+    USER_POST: 'danh-sach-tin-dang',
+    USER_POST_SAVED: 'tin-da-luu',
+    USERS_POST_RECOMMEND: 'tin-goi-y',
+    USERS_BLOCK: 'nguoi-dung-da-khoa',
+    USERS_RECOMMEND: 'goi-y-cho-nguoi-dung',
+    POST: 'quan-ly-bai-dang',
+    POST_BLOCK: 'bai-dang-da-khoa',
+    ADMIN_ACCOUNT: 'admin',
+    PROFILE: 'ho-so-ca-nhan',
+};
